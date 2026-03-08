@@ -1,0 +1,92 @@
+[
+  {
+    "ts": 1772378271.3289535,
+    "raw_metrics": {
+      "liquidity_usd": 831342.01,
+      "volume_24h_usd": 1549648.27,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772379124.2291183,
+    "raw_metrics": {
+      "liquidity_usd": 21550.19,
+      "volume_24h_usd": 322113.59,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772379252.9430468,
+    "raw_metrics": {
+      "liquidity_usd": 21550.19,
+      "volume_24h_usd": 322078.52,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772379284.3760602,
+    "raw_metrics": {
+      "liquidity_usd": 21550.13,
+      "volume_24h_usd": 322126.76,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772379331.7988575,
+    "raw_metrics": {
+      "liquidity_usd": 21550.08,
+      "volume_24h_usd": 321944.77,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772949926.3230405,
+    "raw_metrics": {
+      "liquidity_usd": 21583.24,
+      "volume_24h_usd": 221700.87,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772951281.3958488,
+    "chain": "base",
+    "token": "0x833589fCD6eDb6E08f4c7C32D4f71b54bDa02913",
+    "raw_metrics": {
+      "price_usd": 0.9999,
+      "liquidity_usd": 21583.65,
+      "volume_24h_usd": 221840.57,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772951302.7666125,
+    "chain": "base",
+    "token": "0x833589fCD6eDb6E08f4c7C32D4f71b54bDa02913",
+    "raw_metrics": {
+      "price_usd": 0.9999,
+      "liquidity_usd": 21583.65,
+      "volume_24h_usd": 221840.57,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772951303.7485209,
+    "chain": "base",
+    "token": "0x833589fCD6eDb6E08f4c7C32D4f71b54bDa02913",
+    "raw_metrics": {
+      "price_usd": 0.9999,
+      "liquidity_usd": 21583.65,
+      "volume_24h_usd": 221840.57,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  }
+]

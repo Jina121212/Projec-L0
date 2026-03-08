@@ -1,0 +1,50 @@
+[
+  {
+    "ts": 1772954008.8148448,
+    "chain": "base",
+    "token": "0x833589fCD6eDb6E08f4c7C32D4f71b54bDa02913",
+    "raw_metrics": {
+      "price_usd": 0.9999,
+      "liquidity_usd": 21583.73,
+      "volume_24h_usd": 234884.73,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772954535.322334,
+    "chain": "base",
+    "token": "0x833589fCD6eDb6E08f4c7C32D4f71b54bDa02913",
+    "raw_metrics": {
+      "price_usd": 0.9999,
+      "liquidity_usd": 21583.72,
+      "volume_24h_usd": 241039.15,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772955174.2897248,
+    "chain": "base",
+    "token": "0x833589fCD6eDb6E08f4c7C32D4f71b54bDa02913",
+    "raw_metrics": {
+      "price_usd": 0.9999,
+      "liquidity_usd": 21583.92,
+      "volume_24h_usd": 242792.99,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  },
+  {
+    "ts": 1772955830.2159133,
+    "chain": "base",
+    "token": "0x833589fCD6eDb6E08f4c7C32D4f71b54bDa02913",
+    "raw_metrics": {
+      "price_usd": 0.9999,
+      "liquidity_usd": 21583.93,
+      "volume_24h_usd": 242131.2,
+      "volume_15m_usd": null,
+      "price_change_15m_pct": null
+    }
+  }
+]

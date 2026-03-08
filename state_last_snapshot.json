@@ -1,0 +1,11 @@
+{
+  "ts": 1772377386.2420003,
+  "raw_metrics": {
+    "liquidity_usd": 829205.5,
+    "volume_24h_usd": 1560190.42,
+    "fdv_usd": null,
+    "pair_address": "0x96d4b53a38337a5733179751781178a2613306063c511b78cd02684739288c0a",
+    "holders_top1_pct": null
+  },
+  "vol_15m_usd": null
+}
