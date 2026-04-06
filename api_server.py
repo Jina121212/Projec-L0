@@ -304,23 +304,23 @@ def get_token_data(
     latency_ms = int((time.time() - start_time) * 1000)
 
     payload = {
-        "service": "Project L0 API",
-        "version": "0.4",
-        "chain": chain,
-        "token": address,
-        "as_of": datetime.now(timezone.utc).isoformat(),
-        "raw_metrics": raw_metrics,
-        "behavior": behavior,
-        "meta": {
-            "source": "dexscreener",
-            "cache_ttl_seconds": CACHE_TTL_SECONDS,
-            "cache_age_seconds": 0,
-            "served_from_cache": False,
-            "latency_ms": latency_ms,
-            "history_max": HISTORY_MAX,
-            "request_count_in_window": current_count
-        }
+    "service": "Project L0 API",
+    "version": "0.4",
+    "chain": chain,
+    "token": address,
+    "as_of": datetime.now(timezone.utc).isoformat(),
+    "raw_metrics": raw_metrics,
+    "behavior": behavior,
+
+    # 👇 여기 추가
+    "agent_ready": True,
+    "data_quality": "raw_liquidity_feed",
+    "use_case": "token_analysis_for_ai_agents",
+
+    "meta": {
+        ...
     }
+}
 
     history.append(current_snap)
     save_history(history)
